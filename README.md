@@ -1,2 +1,2 @@
-# SpringBoot-Angular
+# SpringBoot-Angular-Crud-Example
 Crud-Example
